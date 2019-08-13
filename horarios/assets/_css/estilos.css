@@ -1,0 +1,118 @@
+
+
+
+*{border:none; font-family: 'Arial', sans-serif;}
+
+body {
+    background: url('FormatFactoryifpa.jpg') no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+section#princ{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+header#boasVindas h1{
+    color: #fff;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    font-weight: 100;
+    font-size: 3em;
+}
+
+
+article#formulario{
+    width: 90%;
+    margin: 0 auto;
+    background:rgba(255, 255, 255, 0.6);
+    border-radius: 15px;
+}
+
+div#infForm img{
+    width: 80px;
+    margin-top: 10px;
+}
+
+div#infForm h2{
+    text-align: center;
+    font-size: 2em;
+    font-weight: 700;
+    color: #265F17;
+    
+}
+
+div#infForm #linha{
+    border:1px solid rgba(255, 255, 255, 0.5);
+}
+
+form#form{
+    padding: 10px;
+}
+form#form select{
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 6%;
+}
+form#form p{
+    text-align: center;
+}
+form#form button#bt{
+    padding: 10px;
+    border-radius: 10px;
+    transition: .5s;
+}
+
+button#bt:hover{
+    padding: 13px;
+    background-color: #FE7A22;
+    color: #fff;
+    cursor: pointer;
+}
+
+
+
+@media screen and (min-width: 400px){
+    article#formulario{
+        width: 80%;
+    }
+}
+
+
+@media screen and (min-width: 500px){
+    article#formulario{
+        width: 70%;
+    }
+}
+
+
+@media screen and (min-width: 600px){
+    article#formulario{
+        width: 60%;
+    }
+}
+
+
+@media screen and (min-width: 700px){
+    article#formulario{
+        width: 50%;
+    }
+}
+
+
+@media screen and (min-width: 799px){
+    article#formulario{
+        width: 40%;
+    }
+}
+
+
+@media screen and (min-width: 960px){
+    article#formulario{
+        width: 30%;
+    }
+}

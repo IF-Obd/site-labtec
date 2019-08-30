@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿OCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -604,7 +604,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="fh5co-person text-center to-animate"> <p>
-                            <figure><img src="images/person6.jpg" alt="Image"></figure>
+                            <figure><img src="images/personn.jpg" alt="Image"></figure>
                             <h3>Victor Peres</h3>
                             <span class="fh5co-position">Professor</span>
                             <p>Atualmente é Professor do Instituto Federal do Pará - Campus Óbidos. Possui Graduação em Sistema de Informação pela Universidade Federal Rural da Amazônia. Tem experiência na área de Ciência da Computação, com ênfase em Inteligência Artificial, atuando principalmente nos seguintes temas: Redes Neurais Artificiais, Reconhecimento de Padrões e Reengenharia de Software.</p>
@@ -620,36 +620,36 @@
                     </div>
                     <div class="col-md-4">
                         <div class="fh5co-person text-center to-animate"> 
-                            <figure><img src="images/person.png" alt="Image"></figure>
-                            <h3><br>Edinelson Junior</h3>
+                            <figure><img src="images/person9.png" alt="Image"></figure>
+                            <h3><br>Luiz Reinoso</h3>
                             <span class="fh5co-position">Professor</span>
-                            <p>Acadêmico do Curso de Ciência da Computação da Universidade Federal do Oeste do Pará.Tem experiência na área de Educação, com ênfase em Educação, atuando principalmente nos seguintes temas: tecnologia, redes socias, cibercultura, software livre e inclusão digital.Professor no Instituto Federal de Educação Ciência e Tecnologia do Pará.</p>
+                            <p>Luiz Fernando Reinoso é professor e pesquisador em Sistemas de Informação. Formado em Tecnologia de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES), campus Santa Teresa em 2012. Pós-graduado em Novas tecnologias na educação na Escola Superior do Brasil (ESAB), em Vila Velha, 2014. Mestre em Informática na educação, LIEd/UFES, Vitória, 2016.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="fh5co-person text-center to-animate"> 
-                            <figure><img src="images/person5.jpg" alt="IImage"></figure>
+                            <figure><img src="images/natanael.jpg" alt="image"></figure>
+                            <h3><br>Natanael Pires</h3>
+                            <span class="fh5co-position">Professor</span>
+                            <p>Possui graduação em Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade de Ciências Sociais Aplicadas de Cascavel (2010). Atualmente é professor do Instituto Federal de Educação Ciência e Tecnologia do Pará. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Computação.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="fh5co-person text-center to-animate"> 
+                            <figure><img src="images/person5.jpg" alt="image"></figure>
                             <h3><br>Leonne Alves</h3>
                             <span class="fh5co-position">Professor</span>
                             <p>Mestre em Sociologia e Antropologia pela Universidade Federal do Pará (UFPA). Especialista em Agricultura Familiar e Desenvolvimento Agroambiental na Amazônia (UFPA). Graduado em Ciências Sociais - Antropologia (UFPA). Professor no Instituto Federal de Educação Ciência e Tecnologia do Pará.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="fh5co-person text-center to-animate"> 
-                            <figure><img src="images/person9.png" alt="Image'"></figure>
-                            <h3><br>Luiz Reinoso</h3>
+                    <div class="fh5co-person text-center to-animate"> 
+                            <figure><img src="images/person.png" alt="Natanael"></figure>
+                            <h3><br>Edinelson Júnior</h3>
                             <span class="fh5co-position">Professor</span>
-                            <p>É professor e pesquisador em Sistemas de Informação. Formado em Tecnologia de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES), campus Santa Teresa em 2012. Mestre em Informática na educação, LIEd/UFES, Vitória, 2016. Professor no Instituto Federal de Educação Ciência e Tecnologia do Pará.</p>
+                            <p>Acadêmico do Curso de Ciência da Computação da Universidade Federal do Oeste do Pará.Tem experiência na área de Educação, com ênfase em Educação, atuando principalmente nos seguintes temas: tecnologia, redes socias, cibercultura, software livre e inclusão digital.Professor no Instituto Federal de Educação Ciência e Tecnologia do Pará.</p>
                         </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="fh5co-person text-center to-animate"> 
-                            <figure><img src="images/person7.jpg" alt="IImage"></figure>
-                            <h3><br>Natanael Pires</h3>
-                            <span class="fh5co-position">Professor</span>
-                            <p> Possui graduação em Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade de Ciências Sociais Aplicadas de Cascavel (2010). Atualmente é professor do Instituto Federal de Educação Ciência e Tecnologia do Pará. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Computação. </p>
-                        </div>
-                    </div>
+                    </div>  
                 </div>
             </div>
         </section>

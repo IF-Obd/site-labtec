@@ -366,7 +366,7 @@
                     <div class="clearfix visible-sm-block"></div>
                     <div class="col-md-4 col-sm-6 col-xxs-12 lag">
                         <a href="/horarios" class="fh5co-project-item">
-                            <img src="images/horario.png" alt="Image" class="img-responsive">
+                            <img src="images/horarios.png" alt="Image" class="img-responsive">
                             <div align="justify" class="fh5co-text">
                                 <h2>Consulta de Horários</h2>
                                 <span>Sistema Web desenvolvido pelos estagiários do LabTeC de Manutenção e Suporte em Informática para a turma de Informática.</span>
@@ -573,7 +573,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="fh5co-person text-center to-animate"> <p>
-                            <figure><img src="images/person6.jpg" alt="Image"></figure>
+                            <figure><img src="images/personn.jpg" alt="Image"></figure>
                             <h3>Victor Peres</h3>
                             <span class="fh5co-position">Professor</span>
                             <p>Atualmente é Professor do Instituto Federal do Pará - Campus Óbidos. Possui Graduação em Sistema de Informação pela Universidade Federal Rural da Amazônia. Tem experiência na área de Ciência da Computação, com ênfase em Inteligência Artificial, atuando principalmente nos seguintes temas: Redes Neurais Artificiais, Reconhecimento de Padrões e Reengenharia de Software.</p>
@@ -589,15 +589,15 @@
                     </div>
                     <div class="col-md-4">
                         <div class="fh5co-person text-center to-animate"> 
-                            <figure><img src="images/person9.jpg" alt="Image"></figure>
-                            <h3><br>Enéias Monteiro</h3>
+                            <figure><img src="images/person9.png" alt="Image"></figure>
+                            <h3><br>Luiz Reinoso</h3>
                             <span class="fh5co-position">Professor</span>
-                            <p>Atualmente é Professor no Instituto Federal de Educação Ciência e Tecnologia do Pará. Possui Graduação em Tecnologia em Redes de Computadores pelo Instituto Esperança de Ensino Superior - IESPES, cursa Ciência de Computação na Universidade Federal do Oeste do Pará, tem experiência na área de Educação, com ênfase em Tecnologia Educacional, atuando principalmente nos seguintes temas: Inovação Tecnológica, AVA, Software livre, Rea e também atua em Redes de Computadores, automação e robótica.</p>
+                            <p>Luiz Fernando Reinoso é professor e pesquisador em Sistemas de Informação. Formado em Tecnologia de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES), campus Santa Teresa em 2012. Pós-graduado em Novas tecnologias na educação na Escola Superior do Brasil (ESAB), em Vila Velha, 2014. Mestre em Informática na educação, LIEd/UFES, Vitória, 2016.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="fh5co-person text-center to-animate"> 
-                            <figure><img src="images/person7.jpg" alt="Natanael"></figure>
+                            <figure><img src="images/natanael.jpg" alt="image"></figure>
                             <h3><br>Natanael Pires</h3>
                             <span class="fh5co-position">Professor</span>
                             <p>Possui graduação em Tecnologia em Análise e Desenvolvimento de Sistema pela Faculdade de Ciências Sociais Aplicadas de Cascavel (2010). Atualmente é professor do Instituto Federal de Educação Ciência e Tecnologia do Pará. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Computação.</p>
@@ -605,12 +605,20 @@
                     </div>
                     <div class="col-md-4">
                         <div class="fh5co-person text-center to-animate"> 
-                            <figure><img src="images/perfilPadrao.jpg" alt="Natanael"></figure>
-                            <h3><br>Cleidison Santos</h3>
+                            <figure><img src="images/person5.jpg" alt="image"></figure>
+                            <h3><br>Leonne Alves</h3>
                             <span class="fh5co-position">Professor</span>
-                            <p>Possui graduação em Letras - Inglês pela Faculdade Castelo Branco (2006). Direito e Filosofia. Especialização em Língua Inglesa. Tem experiência na área de Letras, com ênfase em Línguas Estrangeiras Modernas, atuando principalmente nos seguintes temas: Literatura amazônica , formação, ensino e aprendizado da língua inglesa, inglês aplicado a informática. Professor, Pesquisador e Coordenador do Centro de idiomas do IFPA Campus Óbidos .</p>
+                            <p>Mestre em Sociologia e Antropologia pela Universidade Federal do Pará (UFPA). Especialista em Agricultura Familiar e Desenvolvimento Agroambiental na Amazônia (UFPA). Graduado em Ciências Sociais - Antropologia (UFPA). Professor no Instituto Federal de Educação Ciência e Tecnologia do Pará.</p>
                         </div>
                     </div>
+                    <div class="col-md-4">
+                    <div class="fh5co-person text-center to-animate"> 
+                            <figure><img src="images/person.png" alt="Natanael"></figure>
+                            <h3><br>Edinelson Júnior</h3>
+                            <span class="fh5co-position">Professor</span>
+                            <p>Acadêmico do Curso de Ciência da Computação da Universidade Federal do Oeste do Pará.Tem experiência na área de Educação, com ênfase em Educação, atuando principalmente nos seguintes temas: tecnologia, redes socias, cibercultura, software livre e inclusão digital.Professor no Instituto Federal de Educação Ciência e Tecnologia do Pará.</p>
+                        </div>
+                    </div>  
                 </div>
             </div>
         </section>
